@@ -10,18 +10,27 @@ They have identified some of the hidden needles so that you can train your model
 The data consist of two-dimensional arrays, so there may be approaches from computer vision that are promising, as well as digital signal processing, anomaly detection, and more.
 
 Librairies:
+
 import os
+
 import gc
+
 import math
+
 import numpy as np
+
 import pandas as pd
+
 import matplotlib.pyplot as plt
 
 from sklearn.model_selection import StratifiedKFold, train_test_split
 
 import tensorflow as tf
+
 import efficientnet.tfkeras as efn
+
 import kerastuner as kt
+
 import tensorflow_addons as tfa
 
 Spectrogram example:
