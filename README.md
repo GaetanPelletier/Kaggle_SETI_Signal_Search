@@ -24,6 +24,10 @@ import tensorflow as tf
 import efficientnet.tfkeras as efn
 import kerastuner as kt
 import tensorflow_addons as tfa
+
+import autokeras as ak
+
+from autogluon.tabular import TabularDataset, TabularPredictor
 ```
 **Spectrogram example**:
 
