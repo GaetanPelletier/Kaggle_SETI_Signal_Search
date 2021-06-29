@@ -31,4 +31,4 @@ from autogluon.tabular import TabularDataset, TabularPredictor
 ```
 **Spectrogram example**:
 
-![SETI Signal](https://github.com/GaetanPelletier/Kaggle_SETI_Signal_Search/blob/main/SETI_signal_.png)
+![SETI Signal](https://github.com/GaetanPelletier/Kaggle_SETI_Signal_Search/blob/main/SETI_signal.png)
