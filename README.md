@@ -2,7 +2,7 @@
 
 This is a Kaggle competition: https://www.kaggle.com/c/seti-breakthrough-listen/overview
 
-**Description**:
+# Description
 
 In this competition, use your data science skills to help identify anomalous signals in scans of Breakthrough Listen targets.
 Because there are no confirmed examples of alien signals to use to train machine learning algorithms, the team included some simulated signals (that they call “needles”) in the haystack of data from the telescope.
@@ -29,11 +29,11 @@ import autokeras as ak
 
 from autogluon.tabular import TabularDataset, TabularPredictor
 ```
-**Spectrogram example**:
+# Spectrogram example
 
 ![SETI Signal](https://github.com/GaetanPelletier/Kaggle_SETI_Signal_Search/blob/main/SETI_signal.png)
 
-# NB :
+# NB
 The competition was reset. Indeed, data leakage problems have interfered with the participants' results.
 
 These files are no longer relevant from a performance point of view.
