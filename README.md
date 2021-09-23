@@ -32,3 +32,10 @@ from autogluon.tabular import TabularDataset, TabularPredictor
 **Spectrogram example**:
 
 ![SETI Signal](https://github.com/GaetanPelletier/Kaggle_SETI_Signal_Search/blob/main/SETI_signal.png)
+
+# NB :
+The competition was reset. Indeed, data leakage problems have interfered with the participants' results.
+
+These files are no longer relevant from a performance point of view.
+
+As part of my training as a machine learning engineer, I presented my work before the competition was rebooted. In order for the jury to evaluate my work, this repository will not be updated.
